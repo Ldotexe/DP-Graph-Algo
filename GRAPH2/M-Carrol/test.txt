@@ -1,0 +1,16 @@
+8
+abc
+abb
+acb
+bcb
+bca
+cca
+ccc
+ccb
+3
+abc
+ccc
+bca
+abc
+acb
+abc
